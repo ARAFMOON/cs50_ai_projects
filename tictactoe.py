@@ -84,9 +84,7 @@ def utility(board):
     else:
         return 0
 
-if __name__ == '__main__':
-    # Start the game
-    # For example, you might call a function to run your game loop
-    print("Tic-Tac-Toe game started!")
+if __name__ == "__main__":
+    print("Welcome to Tic-Tac-Toe!")
     # Your game initialization code here
-    
+    # Example: start_game()
