@@ -16,3 +16,12 @@ data = pd.read_csv('data.csv')
 
 # Display the data
 print(data)
+
+
+import pandas as pd
+
+# Read the CSV file
+data = pd.read_csv('data.csv')
+
+# Display the data
+print(data)
